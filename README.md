@@ -49,7 +49,7 @@ A baseline **Linear Regression** model was fitted after preprocessing and transf
 Residual analysis confirmed near-normal residual distribution and mostly homoscedastic patterns.
 
 ###  RidgeCV,LassoCV and ElasticNetCV
-RidgeCV was used for **regularization** to handle minor multicollinearity and improve generalization.
+These Models were used for **regularization** to handle minor multicollinearity and improve generalization.
 
 
 ---
